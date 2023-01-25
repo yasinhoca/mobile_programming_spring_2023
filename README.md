@@ -52,10 +52,37 @@ Final (Bütünleme) : 50 Puanlık sınav + 25 puan haftalık ödevler + 25 puan 
 * SharedPreferences<br>
 * Buraya kadar öğrenilen kodlar ile ilk activityden kullanıcı adı-şifresi ile giriş yapılsın, ikinci aktivity de "hoşgeldin kullanıcı_ismi" verisi yazılsın. (4. Ödev)<br>
 
--Using Mixamo for characters animations<br>
--Voice and text<br>
--Menu<br>
--Car controller<br>
--Flight Simulator<br>
--Building project for cross platforms<br>
+---Phase 7<br>
+* Menu , context menu<br>
+* Recyclerview<br>
+* Alert dialog, custom dialog<br>
+
+---Phase 8<br>
+* SQLite<br>
+* Android Studio ile SQLite kullanımı<br>
+* Veri ekleme,düzenleme, silme işlemleri (CRUD)<br>
+* Bir arayüz tasarlayarak kullanıcıdan bir otomobile ait bilgileri (model, motor, model yılı vb.) SQLite veritabanına ekleyelim, düzenleyelim, silelim (5. Ödev)<br>
+
+---Phase 9<br>
+* Firebase hesap oluşturma temel bilgiler<br>
+* Firebase ile crud işlemleri<br>
+* Cloud firestore kullanımı<br>
+
+---Phase 10<br>
+* Spinner, Custom spinner<br>
+* Bottom sheet fragment<br>
+* Retrofit ile webden veri alma<br>
+* Bir siteden veri alalım(6. Ödev)<br>
+
+---Phase 11<br>
+* Flutter kurulum<br>
+* Flutter temel bilgiler (widget kavramına giriş, container widget, scaffold widget vb.)<br>
+* Gesture, decoration, Assets<br>
+
+---Phase 12<br>
+* Flutter ile Textfield, button, label vb. temel komponentler<br>
+* SharedPreferences<br>
+* JSON veri alma,yazma<br>
+* Flutter ile basit hesap makinesi yapımı (7. Ödev)<br>
+
 *** Müfredat öğrencinin hazırbulunuşluğuna, reaksiyonuna ve ritmine göre değişebilir
