@@ -24,14 +24,22 @@ Final (Bütünleme) : 50 Puanlık sınav + 25 puan haftalık ödevler + 25 puan 
 * İlk proje oluşturma, projenin AVD sanal makinası ve gerçek cihaz üzerinde gösterimi<br>
 * GenyMotion, Blustacks vb. diğer emulatörlerin kullanımı<br>
 
--Phase 2<br>
+---Phase 2<br>
 * Tasarım ortamı ve layoutlar(genel bilgi)<br>
 * Temel arayüz komponentleri (button, textview ve edittext)<br>
 * Örnek uygulama 4 işlem yapan basit bir hesaplayıcı yapımı (1. Ödev)<br>
 * Imageview kullanımı<br>
 
--Keyboard control, destroy gameobject<br>
--Continuous motion, runtime processes<br>
+---Phase 3<br>
+* Checkbox, RadioButton, RadioGrup<br>
+* Switch kullanımı<br>
+* Buraya kadar öğrenilen componentler ile sayı tahmin oyunu yapımı (2. ödev)<br>
+
+---Phase 4<br>
+* ProgressBar<br>
+* ToggleButton, SeekBar<br>
+* Rastgele soru ve şık getiren uygulama (3. ödev)<br>
+
 -Vectors, force, collision<br>
 -Character assets, camera control<br>
 -Using Mixamo for characters animations<br>
