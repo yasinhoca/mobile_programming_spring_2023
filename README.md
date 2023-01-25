@@ -40,8 +40,18 @@ Final (Bütünleme) : 50 Puanlık sınav + 25 puan haftalık ödevler + 25 puan 
 * ToggleButton, SeekBar<br>
 * Rastgele soru ve şık getiren uygulama (3. ödev)<br>
 
--Vectors, force, collision<br>
--Character assets, camera control<br>
+---Phase 5<br>
+* Constraint Layout<br>
+* LinearLayout<br>
+* Relative Layout<br>
+* XML ile tasarım<br>
+
+---Phase 6<br>
+* Intent ve activity<br>
+* Sayfalar arası veri aktarma<br>
+* SharedPreferences<br>
+* Buraya kadar öğrenilen kodlar ile ilk activityden kullanıcı adı-şifresi ile giriş yapılsın, ikinci aktivity de "hoşgeldin kullanıcı_ismi" verisi yazılsın. (4. Ödev)<br>
+
 -Using Mixamo for characters animations<br>
 -Voice and text<br>
 -Menu<br>
