@@ -1,7 +1,7 @@
 # mobile_programming_spring_2023
 mobile_programming_spring_2023
 
-Bu derste Android Studio ile mobil application tasarımı ve programlama bilgisi verilecektir.<br>
+Bu derste Android Studio ile mobile application tasarımı ve programlama bilgisi verilecektir.<br>
 Dersi seçebilmek için Nesne Yönelimli Programcılık dersinden geçmiş olmanız gereklidir. (Görsel Programlama değil, Nesne Yönelimli Programlama dersinden geçme şartı!)<br>
 *** Not kaygısı olmayan, haftalık ödev/sunum/araştırma yapacak, dönem sonuna kadar proje geliştirebilecek, son derece ağır şartlarda, zorlanarak kendisine bir şeyler katmak isteyen YÜKSEK MOTİVASYONLU, kendini öğrenmeye adamaktan kaçınmayan,algıları açık ve meraklı öğrencilerin dersi seçmesi iyi olacaktır.<br> 
 Derste kullanılacak Android Studio Programı için minimum ideal konfigurasyon: Intel i5/i7 (ryzen5/ryzen7) işlemci, 16 gb ram. (Daha düşük konfigürasyonlarda programın çalışmama yada hata verme olasılığı mevcuttur!)<br>
