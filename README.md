@@ -8,7 +8,7 @@ Derste kullanılacak Android Studio Programı için minimum ideal konfigurasyon:
 
 Derste haftalık ödevler ve sunum verilecektir.<br>
 Haftalık ödevler verildiği hafta yapılmalıdır. Teslim Tarihi geçen ödevin telafisi olmayacaktır.<br>
-Sunumlar ilgili haftada anlatılmak zorundadır. Öğrenciler konu ile ilgili teorik anlatımın ardından canlı olarak(live coding) yaparak konuyu anlatacaklardır! Sunum konuları ilk 2 hafta içerinde seçilmek zorundadır. Konu seçmeyenlere otomatik konu atanacaktır. Dersi alttan alan(devam zorunluluğu olmayan) arkadaşlar konuyu ve örnek uygulamaları hazırlayarak sisteme upload edecekler, konu anlatımı yapamayacaklardır.<br>
+Sunumlar ilgili haftada anlatılmak zorundadır.(Her ne sebep olursa olsun zamanında anlatılmayan konulara 0 puan verilir) Öğrenciler konu ile ilgili teorik anlatımın ardından canlı olarak(live coding) yaparak konuyu anlatacaklardır! Sunum konuları ilk 2 hafta içerinde seçilmek zorundadır. Konu seçmeyenlere otomatik konu atanacaktır. Dersi alttan alan(devam zorunluluğu olmayan) arkadaşlar konuyu ve örnek uygulamaları hazırlayarak sisteme upload edecekler, konu anlatımı yapamayacaklardır.<br>
 Devamsızlık hakkı 4 haftadır. (Devamsızlıklar her hafta düzenli olarak OBS sistemine işleneceğinden geriye dönük hiç bir mazeret kabul edilmeyecektir.)<br>
 
 Derste Android Studio Güncel sürüm kullanılacaktır. <br>
